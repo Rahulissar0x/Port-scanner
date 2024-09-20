@@ -1,0 +1,8 @@
+## Requirements
+
+- Python 3.x
+
+### Libraries
+
+- Python's built-in `socket` library for networking functionality
+- `datetime` for timestamping the scan
