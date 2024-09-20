@@ -11,7 +11,7 @@ This is a simple Python-based port scanner that allows users to scan a range of 
 
 ## Requirements
 
-- Python 3.x
+- python>=3.6
 
 ### Libraries
 
